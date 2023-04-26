@@ -1,0 +1,2 @@
+INSERT INTO `user` (`id`, `username`, `password`, `email`, `name`, `tel`, `gender`, `status`, `activationCode`) VALUES (1639, '12345678902', '12345678902', '1234567890@qq.com', '小明', '12345678910', '女', 1, '68A84004AB7D40EA864200B7FF1251324E92A224FD694819ADC541C79AEB0F38');
+INSERT INTO `user` (`id`, `username`, `password`, `email`, `name`, `tel`, `gender`, `status`, `activationCode`) VALUES (1644, '12345678900', '406455171', '406455171@qq.com', '小明', '13290942165', '女', 1, 'F8EBD272DE8D41ECB61368EC8B3645C88075565306C74E1EB9E07BEF76BB9EBC');

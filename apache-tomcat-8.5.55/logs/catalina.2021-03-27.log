@@ -1,0 +1,50 @@
+27-Mar-2021 09:17:08.229 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本: Apache Tomcat/8.5.55
+27-Mar-2021 09:17:08.236 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:        May 5 2020 22:10:54 UTC
+27-Mar-2021 09:17:08.236 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(:     8.5.55.0
+27-Mar-2021 09:17:08.236 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 操作系统名称:      Windows 10
+27-Mar-2021 09:17:08.240 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:           10.0
+27-Mar-2021 09:17:08.240 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:              amd64
+27-Mar-2021 09:17:08.240 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:     C:\Program Files\Java\jdk-11.0.2
+27-Mar-2021 09:17:08.240 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java虚拟机版本:    11.0.2+9-LTS
+27-Mar-2021 09:17:08.240 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:        Oracle Corporation
+27-Mar-2021 09:17:08.240 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:     C:\Users\weishuai\tomcat\apache-tomcat-8.5.55
+27-Mar-2021 09:17:08.240 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:     C:\Users\weishuai\tomcat\apache-tomcat-8.5.55
+27-Mar-2021 09:17:08.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.base/java.lang=ALL-UNNAMED
+27-Mar-2021 09:17:08.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.base/java.io=ALL-UNNAMED
+27-Mar-2021 09:17:08.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：--add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+27-Mar-2021 09:17:08.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.config.file=C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\conf\logging.properties
+27-Mar-2021 09:17:08.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+27-Mar-2021 09:17:08.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djdk.tls.ephemeralDHKeySize=2048
+27-Mar-2021 09:17:08.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+27-Mar-2021 09:17:08.244 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dignore.endorsed.dirs=
+27-Mar-2021 09:17:08.248 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.base=C:\Users\weishuai\tomcat\apache-tomcat-8.5.55
+27-Mar-2021 09:17:08.252 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Dcatalina.home=C:\Users\weishuai\tomcat\apache-tomcat-8.5.55
+27-Mar-2021 09:17:08.252 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 命令行参数：-Djava.io.tmpdir=C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\temp
+27-Mar-2021 09:17:08.255 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent 使用APR版本[1.7.0]加载了基于APR的Apache Tomcat本机库[1.2.24]。
+27-Mar-2021 09:17:08.255 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR功能：IPv6[true]、sendfile[true]、accept filters[false]、random[true]。
+27-Mar-2021 09:17:08.255 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+27-Mar-2021 09:17:08.262 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL成功初始化 [OpenSSL 1.1.1g  21 Apr 2020]
+27-Mar-2021 09:17:08.333 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-8080"]
+27-Mar-2021 09:17:08.849 信息 [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+27-Mar-2021 09:17:08.875 信息 [main] org.apache.catalina.startup.Catalina.load Initialization processed in 1489 ms
+27-Mar-2021 09:17:08.967 信息 [main] org.apache.catalina.core.StandardService.startInternal 正在启动服务[Catalina]
+27-Mar-2021 09:17:08.967 信息 [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.55
+27-Mar-2021 09:17:08.991 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\docs]
+27-Mar-2021 09:17:09.822 警告 [localhost-startStop-1] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom 使用[SHA1PRNG]创建会话ID生成的SecureRandom实例花费了[358]毫秒。
+27-Mar-2021 09:17:09.853 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\docs]的部署已在[862]毫秒内完成
+27-Mar-2021 09:17:09.853 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\examples]
+27-Mar-2021 09:17:10.426 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\examples]的部署已在[573]毫秒内完成
+27-Mar-2021 09:17:10.426 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\host-manager]
+27-Mar-2021 09:17:10.481 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\host-manager]的部署已在[55]毫秒内完成
+27-Mar-2021 09:17:10.481 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\lagou_edu_home]
+27-Mar-2021 09:17:10.540 警告 [localhost-startStop-1] org.apache.tomcat.util.descriptor.web.WebXml.setVersion 未知版本字符串 [4.0]。将使用默认版本。
+27-Mar-2021 09:17:11.195 信息 [localhost-startStop-1] org.apache.jasper.servlet.TldScanner.scanJars 至少有一个JAR被扫描用于TLD但尚未包含TLD。 为此记录器启用调试日志记录，以获取已扫描但未在其中找到TLD的完整JAR列表。 在扫描期间跳过不需要的JAR可以缩短启动时间和JSP编译时间。
+27-Mar-2021 09:17:11.230 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\lagou_edu_home]的部署已在[749]毫秒内完成
+27-Mar-2021 09:17:11.234 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\manager]
+27-Mar-2021 09:17:11.303 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\manager]的部署已在[69]毫秒内完成
+27-Mar-2021 09:17:11.307 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\ROOT]
+27-Mar-2021 09:17:11.365 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\ROOT]的部署已在[62]毫秒内完成
+27-Mar-2021 09:17:11.365 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\upload]
+27-Mar-2021 09:17:11.406 信息 [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Web应用程序目录[C:\Users\weishuai\tomcat\apache-tomcat-8.5.55\webapps\upload]的部署已在[41]毫秒内完成
+27-Mar-2021 09:17:11.414 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-8080"]
+27-Mar-2021 09:17:11.430 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in 2554 ms

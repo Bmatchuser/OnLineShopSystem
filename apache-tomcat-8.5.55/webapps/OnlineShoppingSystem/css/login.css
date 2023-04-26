@@ -1,0 +1,84 @@
+@CHARSET "UTF-8";
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing :border-box;
+}
+body{
+	background: url("../images/reg_back.png") no-repeat center;
+	width: 100%;
+	height: 100%;
+	
+}
+.reg_layout{
+	width: 900px;
+	height: 450px;
+	margin:auto;
+	margin-top:40px;
+	background-color: white;
+	border:5px solid #DDE0DD;
+	
+}
+.reg_left{
+	float: left;
+	margin:15px;
+	font-size: 15px;
+}
+.reg_left_firstp{
+	color: #DBBA6F;
+}
+.reg_left_secondp{
+	color: #DDE0DD;
+}
+
+.reg_center{
+	float: left;
+	margin-left:50px;
+	margin-top:100px;
+	width: 520px;
+}
+.td_left{
+	width: 100px;
+	text-align: right;
+	height: 40px;
+}
+.td_right{
+	padding-left: 20px;;
+	vertical-align: middle;
+}
+#username,#password,#email,#name,#tel,#date,#checkcode{
+	width: 200px;
+	height: 30px;
+	border: 1px solid #DDE0DD;
+	/*设置表框圆角*/
+	border-radius:5px;
+}
+#checkcode{
+	width: 125px;
+}
+.img_check{
+	height: 100px;
+	vertical-align: middle; 
+	margin-left: 120px;
+}
+.btn_submit{
+	margin-left: 120px;
+	margin-top: 20px;
+}
+
+.reg_right{
+	margin:15px;
+	float: right;
+}
+.reg_right p a{
+	color: pink;
+}
+.span_error{
+	color: red;
+	font-size: 15px;
+	vertical-align: middle;
+}
+
+.check_input{
+	width: 50px;
+}
